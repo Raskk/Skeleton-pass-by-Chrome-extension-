@@ -1,4 +1,4 @@
-# Skeleton Occasionally Passes By 👀
+# Skeleton Rarely Passes By 👀
 
 A simple Chrome extension that has a very small chance, every second, of showing a random skeleton running across your screen.
 
