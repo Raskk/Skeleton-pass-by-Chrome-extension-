@@ -46,7 +46,7 @@ The extension will now run automatically while you browse.
 
 7. Select the `manifest.json` file inside the extracted extension folder.
 
-8. Done.
+8. Done[YOU'LL HAVE TO REPEAT THIS EVERY TIME YOU OPEN FIREFOX].
 
 ## How It Works
 
